@@ -38,6 +38,42 @@ activities = {
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
+    },
+    "Basketball Team": {
+        "description": "Basketball practices and matches",
+        "schedule": "Wednesdays, 4:00 PM - 6:00 PM",
+        "max_participants": 15,
+        "participants": ["alex@mergington.edu"]
+    },
+    "Swimming Club": {
+        "description": "Swimming training sessions",
+        "schedule": "Mondays, 5:00 PM - 6:30 PM",
+        "max_participants": 20,
+        "participants": ["lisa@mergington.edu"]
+    },
+    "Drama Club": {
+        "description": "Acting and theater performances",
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 18,
+        "participants": ["nina@mergington.edu"]
+    },
+    "Painting Workshop": {
+        "description": "Painting and creative art sessions",
+        "schedule": "Fridays, 2:00 PM - 3:30 PM",
+        "max_participants": 12,
+        "participants": ["tom@mergington.edu"]
+    },
+    "Math Olympiad": {
+        "description": "Preparation for math competitions",
+        "schedule": "Tuesdays, 4:00 PM - 5:00 PM",
+        "max_participants": 10,
+        "participants": ["eva@mergington.edu"]
+    },
+    "Debate Club": {
+        "description": "Debate and public speaking practice",
+        "schedule": "Mondays, 3:30 PM - 5:00 PM",
+        "max_participants": 16,
+        "participants": ["mark@mergington.edu"]
     }
 }
 
